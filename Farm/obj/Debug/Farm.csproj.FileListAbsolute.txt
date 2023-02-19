@@ -1,0 +1,6 @@
+C:\Users\Svetlio-PC\source\repos\Excel\Farm\bin\Debug\Farm.exe.config
+C:\Users\Svetlio-PC\source\repos\Excel\Farm\bin\Debug\Farm.exe
+C:\Users\Svetlio-PC\source\repos\Excel\Farm\bin\Debug\Farm.pdb
+C:\Users\Svetlio-PC\source\repos\Excel\Farm\obj\Debug\Farm.csproj.CoreCompileInputs.cache
+C:\Users\Svetlio-PC\source\repos\Excel\Farm\obj\Debug\Farm.exe
+C:\Users\Svetlio-PC\source\repos\Excel\Farm\obj\Debug\Farm.pdb
