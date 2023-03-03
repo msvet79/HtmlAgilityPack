@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmFkukmvP7PVe8q3kH2Ws/2aztnu2KwJPYcURMR7enPHt9wKCQga37hB2yCaR8CUFyRadosoPUFaC5tNIBPSfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Svetlio-PC\\source\\repos\\Excel\\Promotions\\Promotions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Svetlio-PC\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

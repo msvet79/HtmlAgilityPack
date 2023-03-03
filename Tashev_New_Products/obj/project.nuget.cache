@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YU/vRNs9eklEIkP/ZULfiqK+fGzpRI2X1S8ymdog9mV0KcKpM4fYE4mpiDPrCgHglnXzPHYciyJvQHNo4jZxlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Svetlio-PC\\source\\repos\\Excel\\Tashev_New_Products\\Tashev_New_Products.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Svetlio-PC\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
